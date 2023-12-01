@@ -225,7 +225,7 @@ header {
 }
 
 .remeber-forgot label input {
-    accent-color: var(--text-color);
+    accent-color: var(--main-color);
     margin-right: 3px;
 }
 
